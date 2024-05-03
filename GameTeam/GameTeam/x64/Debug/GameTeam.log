@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\one\Desktop\GameTeamPle\GameTeam\main.c(340,13): warning C4098: 'Dungeon1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\one\Desktop\GameTeamPle\GameTeam\main.c(476,13): warning C4098: 'Dungeon2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\one\Desktop\GameTeamPle\GameTeam\main.c(593,13): warning C4098: 'Dungeon3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\one\Desktop\GameTeamPle\GameTeam\main.c(702,13): warning C4098: 'Dungeon4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\one\Desktop\GameTeamPle\GameTeam\main.c(827,13): warning C4098: 'Dungeon5': 'void' 함수에서 값을 반환하고 있습니다.
+  GameTeam.vcxproj -> C:\Users\one\Desktop\GameTeamPle\GameTeam\x64\Debug\GameTeam.exe
